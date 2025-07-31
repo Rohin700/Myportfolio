@@ -4,7 +4,7 @@ export const Skills = () => {
   const frontendSkills = ["React", "TypeScript", "TailwindCSS", "Angular" , "CSS3"  ,"Bootstrap" , "HTML5" , "JavaScript (ES6+)"];
   const backendSkills = ["Node.js", "Express", "C++" , "Java" , "Python" , "MongoDB" , "MySQL-Workbench" , "JavaScript" , "Spring" , "Mongoose" , "Ajax" , "Regex" , "JQuery" , "Axios", "DBMS", "Operating System" , "Cyber Security"];
   const tools = ["OpenAI API" , "DigiLocker API", "Google Gemini" , "JavaFX" , "Scene Builder" , "JWToken", "Nodemailer" , "IntelliJ" , "Postman" , "VS Code" , "MATLAB" , "AutoCAD", "EmailJS" ];
-  const cloud = ["AWS" , "Docker" , "GitHub" , "Cloudinary" , "Render" , "MongoDB Atlas" , "MySQL"]
+  const cloud = ["AWS" , "Docker" , "GitHub" , "Cloudinary" , "Render" , "MongoDB Atlas" , "MySQL" , "Netlify" , "Vercel"]
 
   return (
     <section
