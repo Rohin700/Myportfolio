@@ -37,7 +37,7 @@ export const Projects = () => {
                 
                 <div className="flex justify-between items-center">
                     <a
-                        href="#"
+                        href="https://the-medicare.netlify.app/"
                         className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                         >
                         (Click Here) : View Project →
