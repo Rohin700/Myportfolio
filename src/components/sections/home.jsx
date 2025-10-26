@@ -35,7 +35,7 @@ export const Home = () => {
 
         {/* Download CV */}
         <a
-          href="/LtstRResume.pdf"
+          href="/CResume.pdf"
           download
           className="bg-white/10 text-white hover:bg-white/20 py-4 px-6 rounded-xl font-medium shadow-md backdrop-blur-md transition-transform transform hover:-translate-y-1 text-center flex flex-col items-center"
         >
