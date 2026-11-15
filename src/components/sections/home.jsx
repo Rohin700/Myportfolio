@@ -17,7 +17,7 @@ export const Home = () => {
           I'm Rohin
         </h2>
 
-        <p className="text-xl md:text-2xl font-semibold text-white text-center max-w-2xl mx-auto mt-4 bg-gradient-to-r from-yellow-300 via-pink-400 to-red-500 bg-clip-text text-transparent">
+        <p className="text-xl md:text-2xl font-semibold text-center max-w-2xl mx-auto mt-4 bg-gradient-to-r from-yellow-300 via-pink-400 to-red-500 bg-clip-text text-transparent">
           An algorithm must be <span className="font-bold">seen</span> to be{" "}
           <span className="font-bold">believed</span>.
         </p>
