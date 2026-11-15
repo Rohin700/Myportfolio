@@ -10,17 +10,18 @@ export const Home = () => {
     >
       {/* Top Heading Section */}
       <div className="text-center z-10 px-4 flex flex-col items-center justify-center min-h-[60vh]">
-  <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-yellow-300 via-pink-400 to-red-500 bg-clip-text text-transparent animate-pulse">
-    Hello!
-  </h1>
-  <h2 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-300 via-purple-400 to-orange-500 bg-clip-text text-transparent">
-    I'm Rohin
-  </h2>
+        <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-yellow-300 via-pink-400 to-red-500 bg-clip-text text-transparent animate-pulse">
+          Hello!
+        </h1>
+        <h2 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-300 via-purple-400 to-orange-500 bg-clip-text text-transparent">
+          I'm Rohin
+        </h2>
 
-  <p className="text-xl md:text-2xl font-semibold text-white text-center max-w-2xl mx-auto mt-4 bg-gradient-to-r from-yellow-300 via-pink-400 to-red-500 bg-clip-text text-transparent">
-    An algorithm must be <span className="font-bold">seen</span> to be <span className="font-bold">believed</span>.
-  </p>
-</div>
+        <p className="text-xl md:text-2xl font-semibold text-white text-center max-w-2xl mx-auto mt-4 bg-gradient-to-r from-yellow-300 via-pink-400 to-red-500 bg-clip-text text-transparent">
+          An algorithm must be <span className="font-bold">seen</span> to be{" "}
+          <span className="font-bold">believed</span>.
+        </p>
+      </div>
 
       {/* Bottom Buttons Section */}
       <div className="flex flex-wrap justify-center gap-4 z-10 mb-10">
@@ -35,7 +36,7 @@ export const Home = () => {
 
         {/* Download CV */}
         <a
-          href="/CResume.pdf"
+          href="/Cresume.pdf"
           download
           className="bg-white/10 text-white hover:bg-white/20 py-4 px-6 rounded-xl font-medium shadow-md backdrop-blur-md transition-transform transform hover:-translate-y-1 text-center flex flex-col items-center"
         >
